@@ -12,7 +12,7 @@ print(f"key: {key}")
 
 #ENCRYPT
 
-plain_text = input("ENter a message to encrypt: ")
+plain_text = input("Enter a message to encrypt: ")
 cipher_text = ""
 
 for letter in plain_text:

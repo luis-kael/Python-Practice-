@@ -8,7 +8,7 @@ employees = [["Name", "Age", "Job"],
             ["Patrick", 37, "Unomployed"],
             ["Sandy", 27, "Scientist"]]
 
-file_path = "output.csv"
+file_path = "C:\\Users\\DELL\\OneDrive\\Desktopoutput.csv"
 
 try:
     with open(file_path, "w", newline="") as file:

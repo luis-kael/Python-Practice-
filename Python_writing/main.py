@@ -2,7 +2,7 @@
 
 employees = [" Eugene", "Squidward", "Spongbob", "Patrick"]
 
-file_path = "output.txt"
+file_path = "C:\\Users\\DELL\\OneDrive\\Desktop\\text.txt"
 
 try:
     with open(file_path, "w") as file:

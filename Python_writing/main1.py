@@ -8,7 +8,7 @@ employee = {
     "job":"cook"
 }
 
-file_path = "output.json"
+file_path = "C:\\Users\\DELL\\OneDrive\\Desktop\\output.json"
 
 try:
     with open(file_path, "w") as file:
